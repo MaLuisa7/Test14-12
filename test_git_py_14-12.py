@@ -1,2 +1,3 @@
 x = 2+2
-print(x)
+circulo_area = 3.1416 * x**2 
+print(circulo_area)
